@@ -1,8 +1,13 @@
 # 💰 Personal Finance Tracker
 
-
-
 A modern web application to track expenses, manage budgets, and visualize financial data. Built with Next.js, React, and MongoDB.
+
+<img width="1470" alt="Screenshot 2025-04-17 at 3 57 59 AM" src="https://github.com/user-attachments/assets/568ed233-8320-440e-8c7b-a3b77d5cc70e" />
+
+<img width="1470" alt="Screenshot 2025-04-17 at 3 58 08 AM" src="https://github.com/user-attachments/assets/404cddb9-8f6e-482f-8f80-5eb2ad235a76" />
+
+<img width="1470" alt="Screenshot 2025-04-17 at 3 57 50 AM" src="https://github.com/user-attachments/assets/9d4c405d-3824-4f69-a05e-e0c93ddca9b7" />
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Next.js](https://img.shields.io/badge/Next.js-13+-000000?logo=next.js)](https://nextjs.org/)
