@@ -1,7 +1,3 @@
-Absolutely! Here's a clean and professional `README.md` for your **Personal Finance Tracker** project, fully formatted with markdown best practices:
-
----
-
 ```markdown
 # 💰 Personal Finance Tracker
 
