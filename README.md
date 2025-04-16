@@ -42,7 +42,6 @@ A web application to track your expenses, manage budgets, and visualize your fin
 └── package.json   # Project dependencies and scripts
 ```
 
----
 
 ## 🚀 Getting Started
 
@@ -139,4 +138,4 @@ This project is licensed under the **MIT License**.
 ---
 
 **Happy Tracking! 🎉**
-```
+
